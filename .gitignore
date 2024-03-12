@@ -1,6 +1,4 @@
-# Ignorar arquivos gerados pelo Python
-*.pyc
-__pycache__
-
-# Ignorar o diretório de ambiente virtual (se você estiver usando venv)
 venv/
+.vscode/
+__pycache__/
+*.pyc
